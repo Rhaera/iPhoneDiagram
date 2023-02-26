@@ -25,6 +25,8 @@ dependencies {
 
     // This dependency is used to avoid boilerplate code.
     implementation 'org.projectlombok:lombok:1.18.26'
+
+    annotationProcessor 'org.projectlombok:lombok:1.18.26'
 }
 
 application {
